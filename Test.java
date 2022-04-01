@@ -10,6 +10,7 @@ public class Test {//変数greetingをString型で定義して、そこに値を
     }
 	public static void plus() {//コンソールに1～10まで足した結果を表示してみよう。
 	    for (int i = 1; i <= 10; i++){
-	      System.out.println(i);}	    
+	      System.out.println(i);
+		}	    
     }
  }
